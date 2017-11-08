@@ -1,0 +1,113 @@
+
+#logged{
+float: right;
+margin-top: 70px;
+
+}
+#logged1{
+float: right;
+}
+
+
+#index #header{
+width: 1300px;
+height: 60px;	
+border: 1px solid #C0DEED ;
+background-color: #D3E8F2;
+
+}
+#index #header a,h1{
+font-family: serif;
+float: right;
+margin-right: 5px;
+}
+h1{
+color: #3887C7;
+}
+#index #header a{
+margin-top: 20px;
+margin-right: 90px;
+
+}
+#center{
+		width: 1300px;
+}
+#center #rtl{
+	float: right;
+	width: 300px;
+	height: 500px;
+	margin-top: 20px;
+	margin-right: 10px;
+ }
+ 
+#center #rtl .nav{
+	margin-right: 10px;
+	width: 190px;
+}
+#center #rtl i{
+	margin-top: 7px;
+}
+#center #ltr{
+	float: right;
+	width: 900px;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+#center #ltr form{
+	margin-top: 20px;
+	
+}
+#center #ltr h3{
+	margin-bottom: 20px;
+	padding-right: 60px;
+	font-family: serif;
+	font-size: 30px;
+	color: #0088CC;
+	 }
+#center #ltr form textarea {
+	width: 400px;
+	
+	 }
+#center #ltr #statistics {
+	padding-right: 50px;
+	
+}
+#center #ltr #statistics h3{
+	padding-right: 50px;
+	font-family: serif;
+	font-size: 30px;
+	color: #0088CC;
+	 }
+#center #ltr #statistics h5{
+	padding-right: 50px;
+	font-family: serif;
+	font-size: 30px;
+	color: #2F96B4;
+	 }
+
+#msg{
+margin-right: 190px;
+margin-top: 50px;
+}
+#website{
+
+margin-right: 190px;
+margin-top: 50px;
+}
+#manager{
+
+margin-right: 170px;
+margin-top: 10px;
+}
+
+#tabletwi{
+  width: 700px;
+}
+
+#cc{
+	position: absolute;
+	left: 20px;
+	bottom:20px;
+
+}
